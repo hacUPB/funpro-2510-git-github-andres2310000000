@@ -8,6 +8,7 @@ Para clonar el proyecto se usa el comando git clone -link del documento-
 Para ejecutarlo: se usa el comando cd -nombre del archivo-
 Para verificar el estado usa el comando git status
 
+Tabla de contenido
 Funprog
 src
 [codigo que se entrego](./src/script.c.txt)
