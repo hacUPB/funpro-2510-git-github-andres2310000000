@@ -5,10 +5,11 @@ Id.:000516177
 En este proyecto se busca proyectar como se usa git y git hub, donde se buscara mostrar la creacion de repositorios locales y remotos, la sincronizacion de estos, el uso de la consola para navegar y crear directorios y archivos.
 Los pasos para clonar y ejecutar un proyecto
 Para clonar el proyecto se usa el comando git clone -link del documento-
+
 Para ejecutarlo: se usa el comando cd -nombre del archivo-
 Para verificar el estado usa el comando git status
 
-Tabla de contenido
+Tabla de contenido:
 Funprog
 src
 [codigo que se entrego](./src/script.c.txt)
