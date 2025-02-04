@@ -5,3 +5,5 @@ para inicializar un nuevo repositorio git en el directorio actual se usa el coma
 para verificar el estado del repositorio se usa git status
 para añadir archivos al stage y poder hacerles los commits se usa git add
 luego para realizar el commit  se usa el comando git commit -m"comentario "
+el .gitignore mantiene el repositorio limpio y ordenado y evita subir archivos innecesarios.
+
