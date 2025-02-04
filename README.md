@@ -18,6 +18,10 @@ docs
 [Repositorio local](./docs/repositorio_local.md)
 [Repositorio remoto](./docs/repositorio_remoto.md)
 images
-
-
-[texto](./docs/nombre de archivo con exte)
+![imagen 1](images/a1.png)
+![imagen 2](images/re.png)
+![imagen 3](images/add.png)
+![imagen 4](images/img1.png)
+![imagen 5](images/comm.png)
+![imagen 6](images/init.png)
+![imagen 7](images/sta.png)
