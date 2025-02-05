@@ -1,7 +1,9 @@
 pwd-se usa para saber en que carpeta estamos
 ls-listar los archivos y diretorios en el directorio en uso
 cd- se utiliza para ubicarse en la carpeta deseada
+```
 mkdir-se utiliza para crear carpetas
+```
 touch-se utiliza para crear archivos
 git init-se usa ara iniciar un reositorio nuevo en un directorio
 git config user.name/email-se usa para establecer la identidad del 
