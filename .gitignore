@@ -1,0 +1,34 @@
+# Archivos de compilación
+*.o
+*.out
+*.a
+*.so
+
+# Archivos de depuración
+*.gch
+*.dSYM/
+*.exe
+
+# Archivos de configuración del entorno
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Directorios de construcción
+/build/
+/bin/
+/obj/
+/lib/
+
+# Archivos generados por el IDE
+*.vscode/
+*.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
